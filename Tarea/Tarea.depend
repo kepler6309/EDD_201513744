@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512952263 source:/home/edwin/Documents/Codeblocks/Tarea/main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1512950814 /home/edwin/Documents/Codeblocks/Tarea/head.h
+
