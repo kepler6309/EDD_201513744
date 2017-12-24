@@ -1,0 +1,6 @@
+C:\Users\latitud e4300\Documents\EDD\ABB\ABB\bin\Debug\ABB.exe.config
+C:\Users\latitud e4300\Documents\EDD\ABB\ABB\obj\Debug\ABB.csprojResolveAssemblyReference.cache
+C:\Users\latitud e4300\Documents\EDD\ABB\ABB\bin\Debug\ABB.exe
+C:\Users\latitud e4300\Documents\EDD\ABB\ABB\bin\Debug\ABB.pdb
+C:\Users\latitud e4300\Documents\EDD\ABB\ABB\obj\Debug\ABB.exe
+C:\Users\latitud e4300\Documents\EDD\ABB\ABB\obj\Debug\ABB.pdb
